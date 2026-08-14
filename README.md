@@ -44,7 +44,7 @@ Displaying data from external services in a pinned gist.
 * [youtube-box](https://github.com/SinaKhalili/youtube-box) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2020-05-22 - Update a pinned gist to show your latest YouTube videos
 * [toggl-box](https://github.com/tobimori/toggl-box) ⚠️ Archived - Update a pinned gist to contain your weekly Toggl time tracking stats
 * [blog-box](https://github.com/Aveek-Saha/blog-box) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2022-04-03 - Update a pinned gist to show your latest dev.to blog post.
-* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 7 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-07 - Update a pinned gist to contain your Todoist productivity stats
+* [todoist-box](https://github.com/joshghent/todoist-box) ⭐ 7 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-13 - Update a pinned gist to contain your Todoist productivity stats
 * [mal-box](https://github.com/jckli/mal-box) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2022-03-10 - Update a pinned gist to contain your latest activity from MyAnimeList.
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-03-03 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

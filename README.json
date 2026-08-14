@@ -361,7 +361,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-07T15:06:14Z",
+            "last_commit": "2026-08-13T09:02:39Z",
             "owner": "joshghent",
             "repo": "todoist-box",
             "stars": 7
@@ -628,7 +628,7 @@
                 "last_commit": "2024-07-27T17:20:29Z",
                 "owner": "matchai",
                 "repo": "waka-box",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:00:30.938Z",
+    "last_updated": "2026-08-14T03:03:32.937Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
     "enhanced_repository": "enhansome/enhansome-pinned-gists",
