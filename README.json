@@ -56,7 +56,7 @@
             "last_commit": "2022-12-13T10:22:17Z",
             "owner": "Leecason",
             "repo": "netease-music-box",
-            "stars": 75
+            "stars": 74
           }
         },
         {
@@ -201,20 +201,6 @@
         },
         {
           "node_type": "item",
-          "title": "douban-box",
-          "description": "Update a pinned gist to contain the latest user status about books/movies/music from Douban.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2020-12-04T07:49:06Z",
-            "owner": "CodeDaraW",
-            "repo": "douban-box",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
           "title": "chess-com-box-py",
           "description": "Update a pinned gist to contain your Chess.com Ratings.",
           "children": [],
@@ -224,6 +210,20 @@
             "last_commit": "2024-07-09T05:23:22Z",
             "owner": "sciencepal",
             "repo": "chess-com-box-py",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "douban-box",
+          "description": "Update a pinned gist to contain the latest user status about books/movies/music from Douban.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-12-04T07:49:06Z",
+            "owner": "CodeDaraW",
+            "repo": "douban-box",
             "stars": 15
           }
         },
@@ -693,7 +693,7 @@
             "last_commit": "2023-12-21T05:50:40Z",
             "owner": "JasonEtco",
             "repo": "activity-box",
-            "stars": 225
+            "stars": 224
           }
         },
         {
@@ -707,7 +707,7 @@
             "last_commit": "2024-07-18T08:08:01Z",
             "owner": "bokub",
             "repo": "github-stats-box",
-            "stars": 160
+            "stars": 159
           }
         },
         {
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:01:03.628Z",
+    "last_updated": "2026-08-17T01:58:58.460Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
     "enhanced_repository": "enhansome/enhansome-pinned-gists",
