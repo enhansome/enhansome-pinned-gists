@@ -361,7 +361,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T09:02:39Z",
+            "last_commit": "2026-08-17T18:18:17Z",
             "owner": "joshghent",
             "repo": "todoist-box",
             "stars": 7
@@ -417,7 +417,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T13:03:11Z",
+            "last_commit": "2026-08-17T13:03:24Z",
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
             "stars": 4
@@ -473,7 +473,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T00:45:18Z",
+            "last_commit": "2026-08-17T21:43:34Z",
             "owner": "ChrisCarini",
             "repo": "trivia-box",
             "stars": 1
@@ -707,7 +707,7 @@
             "last_commit": "2024-07-18T08:08:01Z",
             "owner": "bokub",
             "repo": "github-stats-box",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T01:58:58.460Z",
+    "last_updated": "2026-08-18T01:55:04.248Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
     "enhanced_repository": "enhansome/enhansome-pinned-gists",
