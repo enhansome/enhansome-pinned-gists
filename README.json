@@ -447,7 +447,7 @@
             "archived": false,
             "id": 438092100,
             "language": "Python",
-            "last_commit": "2026-08-18T13:03:05Z",
+            "last_commit": "2026-08-24T13:03:57Z",
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
             "stars": 4
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:02:13.967Z",
+    "last_updated": "2026-08-24T14:06:40.007Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_id": 176368100,
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
