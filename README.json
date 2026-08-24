@@ -387,7 +387,7 @@
             "archived": false,
             "id": 257220422,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T18:18:17Z",
+            "last_commit": "2026-08-23T05:05:35Z",
             "owner": "joshghent",
             "repo": "todoist-box",
             "stars": 7
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:06:06.706Z",
+    "last_updated": "2026-08-24T02:02:13.967Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_id": 176368100,
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
