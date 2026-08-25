@@ -165,7 +165,7 @@
             "last_commit": "2026-07-24T07:07:06Z",
             "owner": "sigming",
             "repo": "playstation-box",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -619,7 +619,7 @@
                 "last_commit": "2023-10-26T04:39:32Z",
                 "owner": "izayl",
                 "repo": "spotify-box",
-                "stars": 130
+                "stars": 131
               }
             },
             {
@@ -634,7 +634,7 @@
                 "last_commit": "2022-03-10T08:55:55Z",
                 "owner": "Aveek-Saha",
                 "repo": "spotify-box",
-                "stars": 20
+                "stars": 21
               }
             },
             {
@@ -649,7 +649,7 @@
                 "last_commit": "2021-09-15T21:39:33Z",
                 "owner": "mporracindie",
                 "repo": "spotify-gist",
-                "stars": 8
+                "stars": 9
               }
             }
           ]
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T01:57:13.605Z",
+    "last_updated": "2026-08-25T05:58:55.503Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_id": 176368100,
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",

@@ -29,7 +29,7 @@ Displaying data from external services in a pinned gist.
 * [goodreads-box](https://github.com/mdluo/goodreads-box) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2020-11-17 - Update a pinned gist to show your currently reading books and progress on Goodreads.
 * [book-box](https://github.com/amorriscode/book-box) ⭐ 26 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-22 - Update a pinned gist to contain your latest reads from goodreads
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 26 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
-* [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your PlayStation playtime leaderboard.
+* [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your PlayStation playtime leaderboard.
 * [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-20 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
@@ -61,9 +61,9 @@ Displaying data from external services in a pinned gist.
   * [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-28 - Update a pinned gist to show your top leetcode skills.
   * [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show leetcode solved problem.
 * Spotify (<https://spotify.com/>)
-  * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 130 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
-  * [spotify-box](https://github.com/Aveek-Saha/spotify-box) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2022-03-10 - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
-  * [spotify-gist](https://github.com/mporracindie/spotify-gist) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2021-09-15 - Update a pinned gist to contain your monthly top artist on Spotify.
+  * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 131 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
+  * [spotify-box](https://github.com/Aveek-Saha/spotify-box) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2022-03-10 - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
+  * [spotify-gist](https://github.com/mporracindie/spotify-gist) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2021-09-15 - Update a pinned gist to contain your monthly top artist on Spotify.
 * WakaTime (<https://wakatime.com/>)
   * [waka-box](https://github.com/matchai/waka-box) ⚠️ Archived - Update a pinned gist to contain your weekly WakaTime stats.
   * [waka-box-go](https://github.com/YouEclipse/waka-box-go) ⭐ 172 | 🐛 3 | 🌐 Go | 📅 2024-01-31 - A Golang implementation of waka-box. Update a pinned gist to contain your weekly WakaTime stats.
