@@ -507,7 +507,7 @@
             "archived": false,
             "id": 438582821,
             "language": "Python",
-            "last_commit": "2026-08-18T21:43:22Z",
+            "last_commit": "2026-08-24T21:46:02Z",
             "owner": "ChrisCarini",
             "repo": "trivia-box",
             "stars": 1
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:40.007Z",
+    "last_updated": "2026-08-25T01:57:13.605Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_id": 176368100,
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
