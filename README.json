@@ -845,9 +845,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:01:41.732Z",
-    "original_repository": "matchai/awesome-pinned-gists",
-    "original_repository_id": 176368100,
+    "last_updated": "2026-08-27T11:58:05.681Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 176368100,
+      "language": null,
+      "last_commit": "2025-08-05T04:12:43Z",
+      "owner": "matchai",
+      "repo": "awesome-pinned-gists",
+      "stars": 2112
+    },
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
     "enhanced_repository": "enhansome/enhansome-pinned-gists",
     "enhanced_repository_description": null,
