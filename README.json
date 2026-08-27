@@ -177,7 +177,7 @@
             "archived": false,
             "id": 218495719,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T16:28:35Z",
+            "last_commit": "2026-08-27T09:01:31Z",
             "owner": "joshghent",
             "repo": "rescue-box",
             "stars": 23
@@ -845,7 +845,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:04:30.668Z",
+    "last_updated": "2026-08-27T10:01:41.732Z",
     "original_repository": "matchai/awesome-pinned-gists",
     "original_repository_id": 176368100,
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
