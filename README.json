@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐦💬 Update a gist to contain your latest tweet",
+            "homepage": null,
             "id": 175863611,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2022-12-08T17:30:27Z",
+            "open_issues": 8,
             "owner": "matchai",
             "repo": "bird-box",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -26,12 +33,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。",
+            "homepage": null,
             "id": 270163145,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-10T07:09:17Z",
+            "open_issues": 3,
             "owner": "YouEclipse",
             "repo": "steam-box",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "pinned-gist",
+              "profile",
+              "profile-readme",
+              "steam",
+              "steam-playtime-leaderboard"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -42,12 +60,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎧 Get your last weeks listening report from last.fm in a GitHub Gist.",
+            "homepage": null,
             "id": 193770644,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-12T00:10:49Z",
+            "open_issues": 4,
             "owner": "jacc",
             "repo": "music-box",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "awesome-pinned-gists",
+              "gistbox",
+              "github-gist",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -58,12 +86,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎧 将你最近一周的网易云音乐的听歌记录更新到 Gist",
+            "homepage": null,
             "id": 283536848,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-13T10:22:17Z",
+            "open_issues": 4,
             "owner": "Leecason",
             "repo": "netease-music-box",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "awesome-pinned-gists",
+              "gistbox",
+              "github-gist",
+              "netease-cloud-music",
+              "netease-music",
+              "pinned-gist",
+              "profile",
+              "profile-readme"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -74,12 +116,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏃‍♂️🏃‍♀️ Update a gist to contain your YTD exercise metrics from Strava",
+            "homepage": null,
             "id": 193281161,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2022-06-25T01:10:49Z",
+            "open_issues": 5,
             "owner": "JohnPhamous",
             "repo": "strava-box",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "gist",
+              "pinned-gist",
+              "strava"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -90,12 +141,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical pinned gist which show your latest medium status 📌 ",
+            "homepage": null,
             "id": 331538650,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-08-23T13:15:51Z",
+            "open_issues": 0,
             "owner": "kylemocode",
             "repo": "medium-stat-box",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "awesome-pinned-gists",
+              "crawler",
+              "github-action",
+              "github-gists",
+              "medium-stats"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -106,12 +168,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😺 Pinnable dynamic Gist with your latest AniList activity.",
+            "homepage": "https://github.com/RangerDigital",
             "id": 238282408,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-21T06:39:32Z",
+            "open_issues": 1,
             "owner": "RangerDigital",
             "repo": "neko-box",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "activity",
+              "anilist",
+              "anilist-api",
+              "anime",
+              "docker",
+              "gists",
+              "github",
+              "github-actions",
+              "pinned-gist",
+              "profile",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -122,12 +201,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Update a pinned gist to show your currently reading books and progress on Goodreads",
+            "homepage": null,
             "id": 287526690,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-11-17T20:00:33Z",
+            "open_issues": 3,
             "owner": "mdluo",
             "repo": "goodreads-box",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "books",
+              "gist",
+              "goodreads",
+              "pinned-gist",
+              "reading"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -138,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 Update a pinned gist to contain your latest reads from goodreads",
+            "homepage": null,
             "id": 267134122,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-22T19:51:22Z",
+            "open_issues": 5,
             "owner": "amorriscode",
             "repo": "book-box",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -154,12 +249,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📺 Get your last watched movies and shows (+more) report from trakt.tv in a GitHub Gist. ",
+            "homepage": null,
             "id": 253053670,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-30T01:19:10Z",
+            "open_issues": 3,
             "owner": "LuisAlejandro",
             "repo": "movie-box",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "gist",
+              "movie-box",
+              "trakt",
+              "trakt-api",
+              "trakt-tv",
+              "watched-movies"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -170,12 +277,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update a pinned gist to contain your PlayStation stats",
+            "homepage": "https://codming.com/",
             "id": 616754389,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:07:06Z",
+            "open_issues": 0,
             "owner": "sigming",
             "repo": "playstation-box",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "awesome-pinned-gists",
+              "pinned-gist",
+              "profile-readme"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -186,12 +302,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⏰ Update a pinned gist to contain your Daily RescueTime Stats",
+            "homepage": null,
             "id": 218495719,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-08-27T09:01:31Z",
+            "open_issues": 7,
             "owner": "joshghent",
             "repo": "rescue-box",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "github-actions",
+              "pinned-gist",
+              "rescue-box",
+              "rescuetime"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -202,12 +328,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Solved.ac 프로필 정보를 GitHub Gist로 보여주는 GitHub Action",
+            "homepage": null,
             "id": 705986878,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T18:40:44Z",
+            "open_issues": 3,
             "owner": "abiriadev",
             "repo": "solvedac-box",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "gistbox",
+              "solved-ac",
+              "solvedac"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -218,12 +353,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "将你的B站最新投稿显示在 pinned gist。",
+            "homepage": null,
             "id": 284920552,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-08-04T15:15:32Z",
+            "open_issues": 0,
             "owner": "KeJunMao",
             "repo": "bilibili-box",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "bilibili",
+              "deno",
+              "gists",
+              "profile"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -234,12 +379,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "♟︎ Update a pinned gist to contain your Chess.com Blitz, Bullet, Rapid, Puzzles & Daily Ratings",
+            "homepage": null,
             "id": 281474776,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-09T05:23:22Z",
+            "open_issues": 1,
             "owner": "sciencepal",
             "repo": "chess-com-box-py",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "chess",
+              "pinned-gist",
+              "rating"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -250,12 +404,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📚🎬🎵将豆瓣用户的书影音数据同步到 Gist ！",
+            "homepage": null,
             "id": 242480192,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-12-04T07:49:06Z",
+            "open_issues": 0,
             "owner": "CodeDaraW",
             "repo": "douban-box",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "douban-box",
+              "gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -266,12 +428,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Share your osu! stats to everyone on Github by using this gadget! 🎶",
+            "homepage": null,
             "id": 698620214,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-10-31T18:38:33Z",
+            "open_issues": 0,
             "owner": "AiverAiva",
             "repo": "osu-box",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "awesome-pinned-gists",
+              "gist",
+              "gistbox",
+              "osu",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -282,12 +455,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👨‍💻 Update a pinned gist to contain random IDE shortcut",
+            "homepage": null,
             "id": 256686046,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-12-20T10:10:14Z",
+            "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "shortcut-box",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "pinned-gist",
+              "swift",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -298,12 +480,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎮 Update your pinned gist to show HoYoverse gameplay stats",
+            "homepage": null,
             "id": 726002428,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-19T10:42:57Z",
+            "open_issues": 0,
             "owner": "yangchang-n",
             "repo": "HoYoLab-box",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "genshin-impact",
+              "github-actions",
+              "honkai-starrail",
+              "hoyolab",
+              "hoyolab-api",
+              "hoyoverse",
+              "mihoyo",
+              "mihoyo-api",
+              "pinned-gist",
+              "profile",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -314,12 +513,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🦠 Update a gist to contain global or country specific coronavirus stats",
+            "homepage": null,
             "id": 260345477,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-03-04T15:31:07Z",
+            "open_issues": 4,
             "owner": "pujux",
             "repo": "covid-box",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "corona",
+              "covid",
+              "covid19",
+              "pinned-gist",
+              "profile-readme",
+              "virus"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -330,12 +541,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊⌨️ Update a pinned gist to contain your latest TypeRacer races",
+            "homepage": "https://play.typeracer.com/",
             "id": 268571543,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-25T13:12:41Z",
+            "open_issues": 6,
             "owner": "tobimori",
             "repo": "typeracer-box",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "awesome-pinned-gists",
+              "gist",
+              "gistbox",
+              "github-actions",
+              "github-gist",
+              "pinned-gist",
+              "typeracer",
+              "typeracer-stats"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -346,12 +571,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌧Update a pinned gist to contain a random hitokoto",
+            "homepage": null,
             "id": 358248691,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-29T12:06:24Z",
+            "open_issues": 0,
             "owner": "greenhandatsjtu",
             "repo": "hitokoto-box",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -362,12 +592,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "▶ Update a pinned gist to show your latest YouTube videos 📹",
+            "homepage": null,
             "id": 265991377,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-22T09:11:38Z",
+            "open_issues": 0,
             "owner": "SinaKhalili",
             "repo": "youtube-box",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "pinned-gist",
+              "youtube-api"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -378,12 +616,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📊⏱️ Update a pinned gist to contain your weekly Toggl Track stats",
+            "homepage": null,
             "id": 268221236,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-25T13:10:41Z",
+            "open_issues": 9,
             "owner": "tobimori",
             "repo": "toggl-box",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "awesome-pinned-gists",
+              "gist",
+              "gistbox",
+              "github-gist",
+              "pinned-gist",
+              "toggl",
+              "toggl-api"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -394,12 +645,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 Update a gist to show your latest dev.to post.",
+            "homepage": null,
             "id": 302814939,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-03T10:10:32Z",
+            "open_issues": 0,
             "owner": "Aveek-Saha",
             "repo": "blog-box",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "blog",
+              "dev-to",
+              "gist",
+              "gistbox",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -410,12 +672,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅ Update a pinned gist to contain your Todoist stats",
+            "homepage": null,
             "id": 257220422,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:09:16Z",
+            "open_issues": 7,
             "owner": "joshghent",
             "repo": "todoist-box",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "awesome-pinned-gists",
+              "gistbox",
+              "github-actions",
+              "pinned-gist",
+              "todoist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -426,12 +699,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📌 Update a pinned gist to contain your latest activity from MyAnimeList",
+            "homepage": null,
             "id": 443431969,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-03-10T22:50:02Z",
+            "open_issues": 0,
             "owner": "jckli",
             "repo": "mal-box",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "anime",
+              "gist",
+              "gistbox",
+              "github",
+              "github-gist",
+              "myanimelist",
+              "myanimelist-api",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -442,12 +729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📺将你的b站信息和近期投稿视频更新到你的pinned Gist ",
+            "homepage": null,
             "id": 806041343,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-03T12:34:02Z",
+            "open_issues": 5,
             "owner": "luyanci",
             "repo": "bilibili-gist-py",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -458,12 +750,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update a pinned gist to contain your Nintendo Switch stats",
+            "homepage": "https://codming.com/",
             "id": 856269046,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T07:07:29Z",
+            "open_issues": 0,
             "owner": "sigming",
             "repo": "nintendo-switch-box",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "awesome-pinned-gists",
+              "pinned-gist",
+              "profile-readme"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -474,12 +775,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update a gist to contain Shodan.io Exposure Stats",
+            "homepage": null,
             "id": 438092100,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T13:03:57Z",
+            "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "pinned",
+              "pinned-gist",
+              "shodan"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -490,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update a pinned gist to show your latest stackoverflow personal state",
+            "homepage": null,
             "id": 507028001,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-25T07:07:12Z",
+            "open_issues": 0,
             "owner": "Pudding124",
             "repo": "stackoverflow-stats-box",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -506,12 +821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✏️ Update a pinned gist to show your latest public HackMD notes.",
+            "homepage": null,
             "id": 1030388085,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-02T06:58:30Z",
+            "open_issues": 0,
             "owner": "tsen159",
             "repo": "hackmd-box",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -522,12 +842,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⌨️ Update a pinned gist with Monkeytype Personal Bests",
+            "homepage": null,
             "id": 891284013,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-12-20T10:17:40Z",
+            "open_issues": 0,
             "owner": "artemnovichkov",
             "repo": "monkeytype-box",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "pinned-gist",
+              "swift",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -538,12 +867,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update a gist to contain a daily trivia question from Open Trivia DB",
+            "homepage": null,
             "id": 438582821,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-24T21:46:02Z",
+            "open_issues": 1,
             "owner": "ChrisCarini",
             "repo": "trivia-box",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "open-trivia",
+              "open-trivia-api",
+              "open-trivia-database",
+              "open-trivia-db-api",
+              "pinned",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -559,12 +900,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bar_chart: Update a pinned gist to contain your Code::Stats stats ",
+                "homepage": null,
                 "id": 280728809,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-25T13:15:34Z",
+                "open_issues": 5,
                 "owner": "aksh1618",
                 "repo": "codestats-box-python",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             },
@@ -575,12 +921,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 270896105,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-04-30T07:14:08Z",
+                "open_issues": 0,
                 "owner": "Ancientwood",
                 "repo": "codestats-box",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             }
@@ -598,12 +949,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Update a pinned gist to show your LeetCode stats.",
+                "homepage": null,
                 "id": 424381268,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-25T02:49:41Z",
+                "open_issues": 0,
                 "owner": "puiiyuen",
                 "repo": "leetcode-box",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "gist",
+                  "github",
+                  "github-actions",
+                  "leetcode",
+                  "pinned-gist",
+                  "profile",
+                  "profile-readme"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             },
@@ -614,12 +978,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Update a pinned gist to contain the top skills practiced on leetcode.",
+                "homepage": null,
                 "id": 640110031,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-28T10:48:17Z",
+                "open_issues": 0,
                 "owner": "tbeachill",
                 "repo": "leetcode-skills-box",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "leetcode",
+                  "pinned-gist",
+                  "profile-readme"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             },
@@ -630,12 +1003,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Update a pinned gist to show your latest leetcode solved problems",
+                "homepage": null,
                 "id": 503791675,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-25T06:49:16Z",
+                "open_issues": 0,
                 "owner": "Pudding124",
                 "repo": "leetcode-solved-box",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             }
@@ -653,12 +1031,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎶 Automatic update pinned gist to show your recent Spotify top tracks.",
+                "homepage": null,
                 "id": 325744984,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-26T04:39:32Z",
+                "open_issues": 0,
                 "owner": "izayl",
                 "repo": "spotify-box",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "actions",
+                  "pinned-gist",
+                  "spotify"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             },
@@ -669,12 +1056,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎧 Update a pinned gist to show your top Spotify tracks/artists.",
+                "homepage": null,
                 "id": 303486957,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-10T08:55:55Z",
+                "open_issues": 1,
                 "owner": "Aveek-Saha",
                 "repo": "spotify-box",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "gist",
+                  "gistbox",
+                  "pinned-gist",
+                  "secrets",
+                  "spotify",
+                  "spotify-box",
+                  "spotify-plugin"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             },
@@ -685,12 +1085,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎧 Get your last weeks listening report from Spotify in a GitHub Gist.",
+                "homepage": null,
                 "id": 406910254,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-15T21:39:33Z",
+                "open_issues": 0,
                 "owner": "mporracindie",
                 "repo": "spotify-gist",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             }
@@ -708,12 +1113,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "📊 Update a pinned gist to contain your weekly WakaTime stats",
+                "homepage": null,
                 "id": 176027106,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2024-07-27T17:20:29Z",
+                "open_issues": 7,
                 "owner": "matchai",
                 "repo": "waka-box",
-                "stars": 1438
+                "stars": 1438,
+                "topics": [
+                  "pinned-gist"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             },
@@ -724,12 +1136,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 profile README / pined gist。",
+                "homepage": null,
                 "id": 269634679,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-31T11:28:47Z",
+                "open_issues": 3,
                 "owner": "YouEclipse",
                 "repo": "waka-box-go",
-                "stars": 172
+                "stars": 172,
+                "topics": [
+                  "pinned-gist",
+                  "profile",
+                  "profile-readme",
+                  "wakatime",
+                  "wakatime-api",
+                  "weekly-wakatime-stats"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             }
@@ -748,12 +1172,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Are you an early 🐤 or a night 🦉? Let's check out in gist",
+            "homepage": null,
             "id": 256051722,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-14T15:10:26Z",
+            "open_issues": 4,
             "owner": "maxam2017",
             "repo": "productive-box",
-            "stars": 543
+            "stars": 543,
+            "topics": [
+              "awesome-pinned-gists",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -769,24 +1201,40 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️📌 Update a pinned gist to show your latest GitHub activity (issues and PRs).",
+                "homepage": null,
                 "id": 973358786,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2025-05-02T09:40:27Z",
+                "open_issues": 0,
                 "owner": "maxchang3",
                 "repo": "github-activity-box",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "activity",
+                  "gist",
+                  "pinned-gist"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "⚡️📌 Update a pinned gist to contain the latest activity of a user",
+            "homepage": null,
             "id": 176167083,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-12-21T05:50:40Z",
+            "open_issues": 20,
             "owner": "JasonEtco",
             "repo": "activity-box",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -797,12 +1245,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📌 Update a gist to contain your GitHub stats",
+            "homepage": null,
             "id": 288202104,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-18T08:08:01Z",
+            "open_issues": 0,
             "owner": "bokub",
             "repo": "github-stats-box",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "gist",
+              "github",
+              "github-actions",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -818,12 +1276,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💻📌 Update a pinned gist to show your most used languages",
+                "homepage": null,
                 "id": 973365690,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-28T15:01:10Z",
+                "open_issues": 0,
                 "owner": "maxchang3",
                 "repo": "github-lang-box",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "gist",
+                  "pinned-gist"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             },
@@ -834,24 +1300,45 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💻 Update a pinned gist to contain languages of your recent commits in GitHub",
+                "homepage": "https://gist.github.com/liby/914dd217cecdc3bf27960be421c95850",
                 "id": 842152835,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-08-01T08:59:18Z",
+                "open_issues": 2,
                 "owner": "liby",
                 "repo": "recent-languages-box",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "gists",
+                  "github",
+                  "github-pro",
+                  "linguist",
+                  "pinned-gist"
+                ]
               },
               "first_seen": "2026-08-28T11:33:09.127Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "💻 Update a pinned gist to contain languages of your recent commits in GitHub",
+            "homepage": "https://github.com/inokawa/lang-box",
             "id": 334643111,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-03T05:24:30Z",
+            "open_issues": 3,
             "owner": "inokawa",
             "repo": "lang-box",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "gist",
+              "github",
+              "linguist",
+              "pinned-gist"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         }
@@ -868,12 +1355,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grid-like images/gifs for Pinned Gists",
+            "homepage": "https://pypi.org/project/image2grid/",
             "id": 795308484,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-19T21:48:14Z",
+            "open_issues": 0,
             "owner": "kiwamizamurai",
             "repo": "image2grid",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "crop-image",
+              "github-readme",
+              "pinned-gist",
+              "profile"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -884,12 +1381,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗓 Update a pinned gist to contain your anniversaries and countdown days (or hours).",
+            "homepage": null,
             "id": 555648500,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-11-08T15:43:52Z",
+            "open_issues": 0,
             "owner": "kf-liu",
             "repo": "date-box",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         }
@@ -898,15 +1402,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:33:09.127Z",
+    "last_updated": "2026-08-29T04:27:58.351Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
+      "homepage": null,
       "id": 176368100,
       "language": null,
+      "license": null,
       "last_commit": "2025-08-05T04:12:43Z",
+      "open_issues": 3,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2114
+      "stars": 2114,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "pinned-gist"
+      ]
     },
     "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
     "enhanced_repository": "enhansome/enhansome-pinned-gists",
