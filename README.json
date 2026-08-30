@@ -816,6 +816,34 @@
         },
         {
           "node_type": "item",
+          "title": "trivia-box",
+          "description": "Update a pinned gist with a daily trivia question from Open Trivia DB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Update a gist to contain a daily trivia question from Open Trivia DB",
+            "homepage": null,
+            "id": 438582821,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-08-24T21:46:02Z",
+            "open_issues": 1,
+            "owner": "ChrisCarini",
+            "repo": "trivia-box",
+            "stars": 2,
+            "topics": [
+              "open-trivia",
+              "open-trivia-api",
+              "open-trivia-database",
+              "open-trivia-db-api",
+              "pinned",
+              "pinned-gist"
+            ]
+          },
+          "first_seen": "2026-08-28T11:33:09.127Z"
+        },
+        {
+          "node_type": "item",
           "title": "hackmd-box",
           "description": "Update a pinned gist to show your latest HackMD notes.",
           "children": [],
@@ -856,34 +884,6 @@
               "pinned-gist",
               "swift",
               "xcode"
-            ]
-          },
-          "first_seen": "2026-08-28T11:33:09.127Z"
-        },
-        {
-          "node_type": "item",
-          "title": "trivia-box",
-          "description": "Update a pinned gist with a daily trivia question from Open Trivia DB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Update a gist to contain a daily trivia question from Open Trivia DB",
-            "homepage": null,
-            "id": 438582821,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-08-24T21:46:02Z",
-            "open_issues": 1,
-            "owner": "ChrisCarini",
-            "repo": "trivia-box",
-            "stars": 1,
-            "topics": [
-              "open-trivia",
-              "open-trivia-api",
-              "open-trivia-database",
-              "open-trivia-db-api",
-              "pinned",
-              "pinned-gist"
             ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:11:48.231Z",
+    "last_updated": "2026-08-30T05:33:36.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",

@@ -50,9 +50,9 @@ Displaying data from external services in a pinned gist.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
 * [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-08-24 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
+* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Update a pinned gist with a daily trivia question from Open Trivia DB.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Update a pinned gist with a daily trivia question from Open Trivia DB.
 * Code::Stats (<https://codestats.net/>)
   * [codestats-box-python](https://github.com/aksh1618/codestats-box-python) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2025-05-25 - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
   * [codestats-box](https://github.com/Ancientwood/codestats-box) ⭐ 7 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-30 - Update a pinned gist to contain your daily Code::Stats.
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
