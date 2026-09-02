@@ -21,7 +21,7 @@ Displaying data from external services in a pinned gist.
 
 * [bird-box](https://github.com/matchai/bird-box) ⭐ 186 | 🐛 8 | 🌐 JavaScript | 📅 2022-12-08 - Update a pinned gist to contain the latest tweets of a Twitter user.
 * [steam-box](https://github.com/YouEclipse/steam-box) ⭐ 176 | 🐛 3 | 🌐 Go | 📅 2024-07-10 - Update a pinned gist to contain your Steam playtime leaderboard.
-* [music-box](https://github.com/jacc/music-box) ⭐ 120 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-12 - Update a pinned gist to contain your weekly listening report on Last.fm.
+* [music-box](https://github.com/jacc/music-box) ⭐ 121 | 🐛 4 | 🌐 JavaScript | 📅 2023-07-12 - Update a pinned gist to contain your weekly listening report on Last.fm.
 * [netease-music-box](https://github.com/Leecason/netease-music-box) ⭐ 74 | 🐛 4 | 🌐 JavaScript | 📅 2022-12-13 - Update a pinned gist to contain your weekly listening report on Netease Cloud Music.
 * [strava-box](https://github.com/JohnPhamous/strava-box) ⭐ 54 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to contain your YTD exercise metrics from Strava.
 * [medium-stat-box](https://github.com/kylemocode/medium-stat-box) ⭐ 41 | 🐛 0 | 🌐 TypeScript | 📅 2022-08-23 - Update a pinned gist to show your medium stats and latest articles.
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
