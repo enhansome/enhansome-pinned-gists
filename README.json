@@ -724,6 +724,31 @@
         },
         {
           "node_type": "item",
+          "title": "nintendo-switch-box",
+          "description": "Update a pinned gist to contain your Nintendo Switch playtime leaderboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Update a pinned gist to contain your Nintendo Switch stats",
+            "homepage": "https://codming.com/",
+            "id": 856269046,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-24T07:07:29Z",
+            "open_issues": 0,
+            "owner": "sigming",
+            "repo": "nintendo-switch-box",
+            "stars": 5,
+            "topics": [
+              "awesome-pinned-gists",
+              "pinned-gist",
+              "profile-readme"
+            ]
+          },
+          "first_seen": "2026-08-28T11:33:09.127Z"
+        },
+        {
+          "node_type": "item",
           "title": "bilibili-gist-py",
           "description": "Update a pinned gist to show your Bilibili stats and your latest videos.",
           "children": [],
@@ -740,31 +765,6 @@
             "repo": "bilibili-gist-py",
             "stars": 4,
             "topics": []
-          },
-          "first_seen": "2026-08-28T11:33:09.127Z"
-        },
-        {
-          "node_type": "item",
-          "title": "nintendo-switch-box",
-          "description": "Update a pinned gist to contain your Nintendo Switch playtime leaderboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Update a pinned gist to contain your Nintendo Switch stats",
-            "homepage": "https://codming.com/",
-            "id": 856269046,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-24T07:07:29Z",
-            "open_issues": 0,
-            "owner": "sigming",
-            "repo": "nintendo-switch-box",
-            "stars": 4,
-            "topics": [
-              "awesome-pinned-gists",
-              "pinned-gist",
-              "profile-readme"
-            ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -1305,7 +1305,7 @@
                 "id": 842152835,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-03T01:36:40Z",
+                "last_commit": "2026-09-03T20:59:36Z",
                 "open_issues": 4,
                 "owner": "liby",
                 "repo": "recent-languages-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:44:34.828Z",
+    "last_updated": "2026-09-04T04:46:10.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
