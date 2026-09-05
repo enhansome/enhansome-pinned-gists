@@ -30,7 +30,7 @@ Displaying data from external services in a pinned gist.
 * [book-box](https://github.com/amorriscode/book-box) ⭐ 26 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-22 - Update a pinned gist to contain your latest reads from goodreads
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 26 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
 * [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your PlayStation playtime leaderboard.
-* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-27 - Update a pinned gist to contain your daily productivity stats from RescueTime.
+* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-04 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
 * [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-07-09 - Update a pinned gist to contain your Chess.com Ratings.
@@ -61,7 +61,7 @@ Displaying data from external services in a pinned gist.
   * [leetcode-skills-box](https://github.com/tbeachill/leetcode-skills-box) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-28 - Update a pinned gist to show your top leetcode skills.
   * [leetcode-solved-box](https://github.com/Pudding124/leetcode-solved-box) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show leetcode solved problem.
 * Spotify (<https://spotify.com/>)
-  * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 131 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
+  * [spotify-box](https://github.com/izayl/spotify-box) ⭐ 130 | 🐛 0 | 🌐 JavaScript | 📅 2023-10-26 - Update a pinned gist to contain your weekly top tracks on Spotify.
   * [spotify-box](https://github.com/Aveek-Saha/spotify-box) ⭐ 21 | 🐛 1 | 🌐 JavaScript | 📅 2022-03-10 - Update a pinned gist to show your weekly/monthly/all-time top Spotify tracks/artists.
   * [spotify-gist](https://github.com/mporracindie/spotify-gist) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2021-09-15 - Update a pinned gist to contain your monthly top artist on Spotify.
 * WakaTime (<https://wakatime.com/>)
@@ -78,7 +78,7 @@ Displaying more detailed GitHub user data in a pinned gist.
 * [github-stats-box](https://github.com/bokub/github-stats-box) ⭐ 159 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-18 - Update a pinned gist to contain your GitHub statistics.
 * [lang-box](https://github.com/inokawa/lang-box) ⭐ 58 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-03 - Update a pinned gist to contain languages of your recent commits in GitHub
   * [github-lang-box](https://github.com/maxchang3/github-lang-box) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-28 - A TypeScript rewrite of lang-box, published on npm for easy GitHub Actions integration, with improved type safety, customizability, and private repository access.
-  * [recent-languages-box](https://github.com/liby/recent-languages-box) ⭐ 0 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-03 - A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages.
+  * [recent-languages-box](https://github.com/liby/recent-languages-box) ⭐ 0 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-04 - A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages.
 
 ## User Defined
 
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

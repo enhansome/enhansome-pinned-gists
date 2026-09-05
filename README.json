@@ -307,7 +307,7 @@
             "id": 218495719,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-08-27T09:01:31Z",
+            "last_commit": "2026-09-04T18:05:39Z",
             "open_issues": 7,
             "owner": "joshghent",
             "repo": "rescue-box",
@@ -1040,7 +1040,7 @@
                 "open_issues": 0,
                 "owner": "izayl",
                 "repo": "spotify-box",
-                "stars": 131,
+                "stars": 130,
                 "topics": [
                   "actions",
                   "pinned-gist",
@@ -1305,7 +1305,7 @@
                 "id": 842152835,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-09-03T20:59:36Z",
+                "last_commit": "2026-09-04T18:36:16Z",
                 "open_issues": 4,
                 "owner": "liby",
                 "repo": "recent-languages-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T04:46:10.010Z",
+    "last_updated": "2026-09-05T04:41:12.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
