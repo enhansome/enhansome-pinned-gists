@@ -678,7 +678,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T09:09:16Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "joshghent",
             "repo": "todoist-box",
             "stars": 7,
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T04:50:52.549Z",
+    "last_updated": "2026-09-07T04:57:03.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
