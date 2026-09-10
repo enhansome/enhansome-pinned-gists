@@ -69,7 +69,7 @@
             "open_issues": 4,
             "owner": "jacc",
             "repo": "music-box",
-            "stars": 121,
+            "stars": 122,
             "topics": [
               "awesome-pinned-gists",
               "gistbox",
@@ -780,7 +780,7 @@
             "id": 438092100,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-07T13:03:30Z",
+            "last_commit": "2026-09-09T13:03:43Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
@@ -826,7 +826,7 @@
             "id": 438582821,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-07T21:43:21Z",
+            "last_commit": "2026-09-09T21:43:41Z",
             "open_issues": 1,
             "owner": "ChrisCarini",
             "repo": "trivia-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T04:54:30.368Z",
+    "last_updated": "2026-09-10T04:56:07.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
