@@ -30,14 +30,14 @@ Displaying data from external services in a pinned gist.
 * [book-box](https://github.com/amorriscode/book-box) ⭐ 26 | 🐛 5 | 🌐 JavaScript | 📅 2022-06-22 - Update a pinned gist to contain your latest reads from goodreads
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 26 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
 * [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your PlayStation playtime leaderboard.
-* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-20 - Update a pinned gist to contain your daily productivity stats from RescueTime.
+* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-22 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
 * [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-07-09 - Update a pinned gist to contain your Chess.com Ratings.
 * [douban-box](https://github.com/CodeDaraW/douban-box) ⚠️ Archived - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
+* [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-02-19 - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 * [osu-box](https://github.com/AiverAiva/osu-box) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-31 - Update a pinned gist to display your osu! stats.
 * [shortcut-box](https://github.com/artemnovichkov/shortcut-box) ⭐ 14 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist to contain random IDE shortcut
-* [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-02-19 - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 * [covid-box](https://github.com/puf17640/covid-box) ⚠️ Archived - Update a gist to contain global or country specific coronavirus stats.
 * [typeracer-box](https://github.com/tobimori/typeracer-box) ⭐ 12 | 🐛 6 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to contain your latest TypeRacer races
 * [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) ⭐ 11 | 🐛 0 | 🌐 Go | 📅 2021-05-29 - Update a pinned gist to contain a random hitokoto.
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

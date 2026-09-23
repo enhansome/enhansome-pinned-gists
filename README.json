@@ -307,8 +307,8 @@
             "id": 218495719,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-09-20T05:08:44Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-22T09:06:25Z",
+            "open_issues": 7,
             "owner": "joshghent",
             "repo": "rescue-box",
             "stars": 23,
@@ -423,6 +423,39 @@
         },
         {
           "node_type": "item",
+          "title": "hoyolab-box",
+          "description": "Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🎮 Update your pinned gist to show HoYoverse gameplay stats",
+            "homepage": null,
+            "id": 726002428,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-02-19T10:42:57Z",
+            "open_issues": 0,
+            "owner": "yangchang-n",
+            "repo": "HoYoLab-box",
+            "stars": 14,
+            "topics": [
+              "genshin-impact",
+              "github-actions",
+              "honkai-starrail",
+              "hoyolab",
+              "hoyolab-api",
+              "hoyoverse",
+              "mihoyo",
+              "mihoyo-api",
+              "pinned-gist",
+              "profile",
+              "python"
+            ]
+          },
+          "first_seen": "2026-08-28T11:33:09.127Z"
+        },
+        {
+          "node_type": "item",
           "title": "osu-box",
           "description": "Update a pinned gist to display your osu! stats.",
           "children": [],
@@ -469,39 +502,6 @@
               "pinned-gist",
               "swift",
               "xcode"
-            ]
-          },
-          "first_seen": "2026-08-28T11:33:09.127Z"
-        },
-        {
-          "node_type": "item",
-          "title": "hoyolab-box",
-          "description": "Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🎮 Update your pinned gist to show HoYoverse gameplay stats",
-            "homepage": null,
-            "id": 726002428,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-02-19T10:42:57Z",
-            "open_issues": 0,
-            "owner": "yangchang-n",
-            "repo": "HoYoLab-box",
-            "stars": 13,
-            "topics": [
-              "genshin-impact",
-              "github-actions",
-              "honkai-starrail",
-              "hoyolab",
-              "hoyolab-api",
-              "hoyoverse",
-              "mihoyo",
-              "mihoyo-api",
-              "pinned-gist",
-              "profile",
-              "python"
             ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T05:11:04.158Z",
+    "last_updated": "2026-09-23T04:54:53.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
