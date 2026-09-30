@@ -42,7 +42,7 @@
             "open_issues": 3,
             "owner": "YouEclipse",
             "repo": "steam-box",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "pinned-gist",
               "profile",
@@ -69,7 +69,7 @@
             "open_issues": 4,
             "owner": "jacc",
             "repo": "music-box",
-            "stars": 122,
+            "stars": 120,
             "topics": [
               "awesome-pinned-gists",
               "gistbox",
@@ -1387,7 +1387,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-11-08T15:43:52Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "kf-liu",
             "repo": "date-box",
             "stars": 5,
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:53:51.994Z",
+    "last_updated": "2026-09-30T05:44:40.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1414,7 +1414,7 @@
       "open_issues": 3,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2119,
+      "stars": 2117,
       "topics": [
         "awesome",
         "awesome-list",
