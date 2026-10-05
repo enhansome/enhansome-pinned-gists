@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "yangchang-n",
             "repo": "HoYoLab-box",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "genshin-impact",
               "github-actions",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:04:01.182Z",
+    "last_updated": "2026-10-05T05:56:14.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",

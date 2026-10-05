@@ -35,7 +35,7 @@ Displaying data from external services in a pinned gist.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
 * [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-07-09 - Update a pinned gist to contain your Chess.com Ratings.
 * [douban-box](https://github.com/CodeDaraW/douban-box) ⚠️ Archived - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
-* [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-02-19 - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
+* [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-02-19 - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 * [osu-box](https://github.com/AiverAiva/osu-box) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-31 - Update a pinned gist to display your osu! stats.
 * [shortcut-box](https://github.com/artemnovichkov/shortcut-box) ⭐ 14 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist to contain random IDE shortcut
 * [covid-box](https://github.com/puf17640/covid-box) ⚠️ Archived - Update a gist to contain global or country specific coronavirus stats.
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
