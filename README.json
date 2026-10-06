@@ -42,7 +42,7 @@
             "open_issues": 3,
             "owner": "YouEclipse",
             "repo": "steam-box",
-            "stars": 176,
+            "stars": 177,
             "topics": [
               "pinned-gist",
               "profile",
@@ -69,7 +69,7 @@
             "open_issues": 4,
             "owner": "jacc",
             "repo": "music-box",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesome-pinned-gists",
               "gistbox",
@@ -678,7 +678,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-28T15:53:35Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "joshghent",
             "repo": "todoist-box",
             "stars": 7,
@@ -780,7 +780,7 @@
             "id": 438092100,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-28T13:03:54Z",
+            "last_commit": "2026-10-05T13:03:22Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
@@ -826,7 +826,7 @@
             "id": 438582821,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-28T21:44:59Z",
+            "last_commit": "2026-10-05T21:46:36Z",
             "open_issues": 1,
             "owner": "ChrisCarini",
             "repo": "trivia-box",
@@ -1181,7 +1181,7 @@
             "open_issues": 4,
             "owner": "maxam2017",
             "repo": "productive-box",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "awesome-pinned-gists",
               "pinned-gist"
@@ -1387,7 +1387,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-11-08T15:43:52Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "kf-liu",
             "repo": "date-box",
             "stars": 5,
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T05:56:14.111Z",
+    "last_updated": "2026-10-06T06:34:41.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
