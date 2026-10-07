@@ -677,8 +677,8 @@
             "id": 257220422,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T15:53:35Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-07T05:09:11Z",
+            "open_issues": 8,
             "owner": "joshghent",
             "repo": "todoist-box",
             "stars": 7,
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:17:29.070Z",
+    "last_updated": "2026-10-07T06:12:28.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1414,7 +1414,7 @@
       "open_issues": 3,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2117,
+      "stars": 2118,
       "topics": [
         "awesome",
         "awesome-list",
