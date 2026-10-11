@@ -42,7 +42,7 @@
             "open_issues": 3,
             "owner": "YouEclipse",
             "repo": "steam-box",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "pinned-gist",
               "profile",
@@ -1305,7 +1305,7 @@
                 "id": 842152835,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-01T05:30:18Z",
+                "last_commit": "2026-10-10T09:39:29Z",
                 "open_issues": 4,
                 "owner": "liby",
                 "repo": "recent-languages-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:04:12.116Z",
+    "last_updated": "2026-10-11T06:02:08.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
