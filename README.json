@@ -677,7 +677,7 @@
             "id": 257220422,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T05:09:11Z",
+            "last_commit": "2026-10-13T16:38:06Z",
             "open_issues": 7,
             "owner": "joshghent",
             "repo": "todoist-box",
@@ -780,7 +780,7 @@
             "id": 438092100,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-09T13:03:19Z",
+            "last_commit": "2026-10-13T11:48:23Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T06:54:48.815Z",
+    "last_updated": "2026-10-14T05:05:09.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1414,7 +1414,7 @@
       "open_issues": 3,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2119,
+      "stars": 2118,
       "topics": [
         "awesome",
         "awesome-list",
