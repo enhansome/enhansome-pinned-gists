@@ -308,7 +308,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2026-10-12T06:19:57Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "joshghent",
             "repo": "rescue-box",
             "stars": 23,
@@ -1181,7 +1181,7 @@
             "open_issues": 4,
             "owner": "maxam2017",
             "repo": "productive-box",
-            "stars": 544,
+            "stars": 545,
             "topics": [
               "awesome-pinned-gists",
               "pinned-gist"
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:48:07.496Z",
+    "last_updated": "2026-10-19T04:56:33.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
