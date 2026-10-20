@@ -307,8 +307,8 @@
             "id": 218495719,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-10-12T06:19:57Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-19T05:12:16Z",
+            "open_issues": 7,
             "owner": "joshghent",
             "repo": "rescue-box",
             "stars": 23,
@@ -780,7 +780,7 @@
             "id": 438092100,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-13T11:48:23Z",
+            "last_commit": "2026-10-19T13:03:08Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
@@ -826,7 +826,7 @@
             "id": 438582821,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-14T05:50:28Z",
+            "last_commit": "2026-10-19T21:43:00Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "trivia-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T04:56:33.475Z",
+    "last_updated": "2026-10-20T05:02:31.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1414,7 +1414,7 @@
       "open_issues": 3,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2118,
+      "stars": 2119,
       "topics": [
         "awesome",
         "awesome-list",
