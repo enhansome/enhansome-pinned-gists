@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "matchai",
             "repo": "bird-box",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "pinned-gist"
             ]
@@ -196,6 +196,27 @@
         },
         {
           "node_type": "item",
+          "title": "book-box",
+          "description": "Update a pinned gist to contain your latest reads from goodreads",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "📚 Update a pinned gist to contain your latest reads from goodreads",
+            "homepage": null,
+            "id": 267134122,
+            "language": "JavaScript",
+            "license": null,
+            "last_commit": "2022-06-22T19:51:22Z",
+            "open_issues": 5,
+            "owner": "amorriscode",
+            "repo": "book-box",
+            "stars": 27,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:33:09.127Z"
+        },
+        {
+          "node_type": "item",
           "title": "goodreads-box",
           "description": "Update a pinned gist to show your currently reading books and progress on Goodreads.",
           "children": [],
@@ -218,27 +239,6 @@
               "pinned-gist",
               "reading"
             ]
-          },
-          "first_seen": "2026-08-28T11:33:09.127Z"
-        },
-        {
-          "node_type": "item",
-          "title": "book-box",
-          "description": "Update a pinned gist to contain your latest reads from goodreads",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📚 Update a pinned gist to contain your latest reads from goodreads",
-            "homepage": null,
-            "id": 267134122,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2022-06-22T19:51:22Z",
-            "open_issues": 5,
-            "owner": "amorriscode",
-            "repo": "book-box",
-            "stars": 26,
-            "topics": []
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
         },
@@ -677,7 +677,7 @@
             "id": 257220422,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T15:52:45Z",
+            "last_commit": "2026-10-22T13:00:47Z",
             "open_issues": 1,
             "owner": "joshghent",
             "repo": "todoist-box",
@@ -1122,7 +1122,7 @@
                 "open_issues": 7,
                 "owner": "matchai",
                 "repo": "waka-box",
-                "stars": 1438,
+                "stars": 1437,
                 "topics": [
                   "pinned-gist"
                 ]
@@ -1231,7 +1231,7 @@
             "open_issues": 20,
             "owner": "JasonEtco",
             "repo": "activity-box",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "pinned-gist"
             ]
@@ -1305,7 +1305,7 @@
                 "id": 842152835,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-21T13:01:36Z",
+                "last_commit": "2026-10-23T02:31:58Z",
                 "open_issues": 4,
                 "owner": "liby",
                 "repo": "recent-languages-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:04:48.215Z",
+    "last_updated": "2026-10-23T05:04:40.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1411,10 +1411,10 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-05T04:12:43Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2119,
+      "stars": 2120,
       "topics": [
         "awesome",
         "awesome-list",
