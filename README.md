@@ -30,7 +30,7 @@ Displaying data from external services in a pinned gist.
 * [goodreads-box](https://github.com/mdluo/goodreads-box) ⭐ 27 | 🐛 3 | 🌐 TypeScript | 📅 2020-11-17 - Update a pinned gist to show your currently reading books and progress on Goodreads.
 * [movie-box](https://github.com/LuisAlejandro/movie-box) ⭐ 26 | 🐛 3 | 🌐 JavaScript | 📅 2024-09-30 - Update a pinned gist to contain your media center stats from Trakt.tv.
 * [playstation-box](https://github.com/Swilder-M/playstation-box) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your PlayStation playtime leaderboard.
-* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-26 - Update a pinned gist to contain your daily productivity stats from RescueTime.
+* [rescue-box](https://github.com/joshghent/rescue-box) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-27 - Update a pinned gist to contain your daily productivity stats from RescueTime.
 * [solvedac-box](https://github.com/abiriadev/solvedac-box) ⭐ 22 | 🐛 3 | 🌐 Go | 📅 2026-07-10 - Update a pinned gist to show [solved.ac](https://solved.ac) profile.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
 * [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-07-09 - Update a pinned gist to contain your Chess.com Ratings.
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
