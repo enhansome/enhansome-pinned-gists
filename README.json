@@ -1305,7 +1305,7 @@
                 "id": 842152835,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-24T18:13:26Z",
+                "last_commit": "2026-10-29T03:16:36Z",
                 "open_issues": 4,
                 "owner": "liby",
                 "repo": "recent-languages-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T05:57:30.485Z",
+    "last_updated": "2026-10-29T06:03:20.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
