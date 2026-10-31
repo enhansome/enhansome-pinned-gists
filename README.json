@@ -286,7 +286,7 @@
             "open_issues": 0,
             "owner": "sigming",
             "repo": "playstation-box",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "awesome-pinned-gists",
               "pinned-gist",
@@ -738,7 +738,7 @@
             "open_issues": 0,
             "owner": "sigming",
             "repo": "nintendo-switch-box",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "awesome-pinned-gists",
               "pinned-gist",
@@ -780,7 +780,7 @@
             "id": 438092100,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-26T13:03:37Z",
+            "last_commit": "2026-10-30T13:03:23Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
@@ -826,7 +826,7 @@
             "id": 438582821,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-26T21:43:04Z",
+            "last_commit": "2026-10-30T21:43:02Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "trivia-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T06:04:41.363Z",
+    "last_updated": "2026-10-31T05:58:31.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
