@@ -35,7 +35,7 @@ Displaying data from external services in a pinned gist.
 * [bilibili-box](https://github.com/KeJunMao/bilibili-box) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-04 - Update a pinned gist to contain your latest Bilibili videos.
 * [chess-com-box-py](https://github.com/sciencepal/chess-com-box-py) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2024-07-09 - Update a pinned gist to contain your Chess.com Ratings.
 * [douban-box](https://github.com/CodeDaraW/douban-box) ⚠️ Archived - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
-* [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-02-19 - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
+* [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-11-02 - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 * [osu-box](https://github.com/AiverAiva/osu-box) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-31 - Update a pinned gist to display your osu! stats.
 * [shortcut-box](https://github.com/artemnovichkov/shortcut-box) ⭐ 14 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist to contain random IDE shortcut
 * [covid-box](https://github.com/puf17640/covid-box) ⚠️ Archived - Update a gist to contain global or country specific coronavirus stats.
@@ -75,7 +75,7 @@ Displaying more detailed GitHub user data in a pinned gist.
 * [productive-box](https://github.com/maxam2017/productive-box) ⭐ 545 | 🐛 4 | 🌐 TypeScript | 📅 2024-08-14 - Update a pinned gist to contain your most productive hours during the day.
 * [activity-box](https://github.com/JasonEtco/activity-box) ⭐ 225 | 🐛 20 | 🌐 JavaScript | 📅 2023-12-21 - Update a pinned gist to contain the latest activity of a GitHub user.
   * [github-activity-box](https://github.com/maxchang3/github-activity-box) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-02 - A TypeScript rewrite of activity-box, published on npm for easy GitHub Actions integration, with improved type safety, customizability, and using the GraphQL API to retrieve issues and PRs authored by the specified user.
-* [github-stats-box](https://github.com/bokub/github-stats-box) ⭐ 159 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-18 - Update a pinned gist to contain your GitHub statistics.
+* [github-stats-box](https://github.com/bokub/github-stats-box) ⭐ 160 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-18 - Update a pinned gist to contain your GitHub statistics.
 * [lang-box](https://github.com/inokawa/lang-box) ⭐ 58 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-03 - Update a pinned gist to contain languages of your recent commits in GitHub
   * [github-lang-box](https://github.com/maxchang3/github-lang-box) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-04-28 - A TypeScript rewrite of lang-box, published on npm for easy GitHub Actions integration, with improved type safety, customizability, and private repository access.
   * [recent-languages-box](https://github.com/liby/recent-languages-box) ⭐ 0 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-29 - A TypeScript + Bun rewrite of lang-box that updates a pinned gist with your recent GitHub commit language statistics. It offers improved type safety, customizability, and uses a more scientific approach to sorting languages.
@@ -107,4 +107,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
