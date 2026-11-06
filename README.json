@@ -95,7 +95,7 @@
             "open_issues": 4,
             "owner": "Leecason",
             "repo": "netease-music-box",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "awesome-pinned-gists",
               "gistbox",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:03:26.959Z",
+    "last_updated": "2026-11-06T07:03:31.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
