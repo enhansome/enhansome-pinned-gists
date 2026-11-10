@@ -780,8 +780,8 @@
             "id": 438092100,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-02T13:03:23Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-09T13:05:34Z",
+            "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "shodan-exposure-box",
             "stars": 4,
@@ -826,7 +826,7 @@
             "id": 438582821,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-02T21:48:35Z",
+            "last_commit": "2026-11-09T21:43:00Z",
             "open_issues": 2,
             "owner": "ChrisCarini",
             "repo": "trivia-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T06:55:20.499Z",
+    "last_updated": "2026-11-10T07:31:38.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1414,7 +1414,7 @@
       "open_issues": 4,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2122,
+      "stars": 2123,
       "topics": [
         "awesome",
         "awesome-list",
