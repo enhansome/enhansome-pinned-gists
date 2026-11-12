@@ -1305,7 +1305,7 @@
                 "id": 842152835,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-06T17:55:12Z",
+                "last_commit": "2026-11-12T00:01:41Z",
                 "open_issues": 4,
                 "owner": "liby",
                 "repo": "recent-languages-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:49:25.232Z",
+    "last_updated": "2026-11-12T07:27:25.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1414,7 +1414,7 @@
       "open_issues": 4,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2123,
+      "stars": 2121,
       "topics": [
         "awesome",
         "awesome-list",
