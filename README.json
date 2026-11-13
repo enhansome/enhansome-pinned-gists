@@ -1122,7 +1122,7 @@
                 "open_issues": 7,
                 "owner": "matchai",
                 "repo": "waka-box",
-                "stars": 1437,
+                "stars": 1438,
                 "topics": [
                   "pinned-gist"
                 ]
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:27:25.591Z",
+    "last_updated": "2026-11-13T06:58:23.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1414,7 +1414,7 @@
       "open_issues": 4,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2121,
+      "stars": 2123,
       "topics": [
         "awesome",
         "awesome-list",
