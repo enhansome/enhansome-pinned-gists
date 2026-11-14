@@ -1254,7 +1254,7 @@
             "open_issues": 0,
             "owner": "bokub",
             "repo": "github-stats-box",
-            "stars": 160,
+            "stars": 159,
             "topics": [
               "gist",
               "github",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T06:58:23.301Z",
+    "last_updated": "2026-11-14T06:47:01.138Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
