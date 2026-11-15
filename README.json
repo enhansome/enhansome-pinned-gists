@@ -307,8 +307,8 @@
             "id": 218495719,
             "language": "JavaScript",
             "license": "ISC",
-            "last_commit": "2026-11-02T23:32:30Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-14T17:45:40Z",
+            "open_issues": 2,
             "owner": "joshghent",
             "repo": "rescue-box",
             "stars": 23,
@@ -677,7 +677,7 @@
             "id": 257220422,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T13:00:47Z",
+            "last_commit": "2026-11-14T17:42:55Z",
             "open_issues": 1,
             "owner": "joshghent",
             "repo": "todoist-box",
@@ -1402,7 +1402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T06:47:01.138Z",
+    "last_updated": "2026-11-15T06:51:17.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
