@@ -122,7 +122,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2022-06-25T01:10:49Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "JohnPhamous",
             "repo": "strava-box",
             "stars": 55,
@@ -844,6 +844,48 @@
         },
         {
           "node_type": "item",
+          "title": "storygraph-box",
+          "description": "Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Update a pinned gist with your latest StoryGraph reads, listens and Audible listening time",
+            "homepage": "https://gist.github.com/chindris-mihai-alexandru/ea859cb806be58d30b66c50441b3d7fb",
+            "id": 1430121447,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-13T02:45:17Z",
+            "open_issues": 6,
+            "owner": "chindris-mihai-alexandru",
+            "repo": "storygraph-box",
+            "stars": 2,
+            "topics": [
+              "audible",
+              "audiobooks",
+              "automation",
+              "book-tracker",
+              "books",
+              "csv",
+              "docker",
+              "gist",
+              "github-action",
+              "github-actions",
+              "github-profile",
+              "goodreads-alternative",
+              "pinned-gist",
+              "python",
+              "reading",
+              "reading-list",
+              "reading-stats",
+              "reading-tracker",
+              "self-hosted",
+              "storygraph"
+            ]
+          },
+          "first_seen": "2026-11-16T06:51:55.034Z"
+        },
+        {
+          "node_type": "item",
           "title": "hackmd-box",
           "description": "Update a pinned gist to show your latest HackMD notes.",
           "children": [],
@@ -862,6 +904,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MapleStory-Pin-Box",
+          "description": "Update a pinned gist to show your MapleStory (KMS) character's level, job, combat power, and server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pins your MapleStory (KMS) character's level, job, combat power, and server to a GitHub Gist. Show your MapleStory KR character info on your GitHub profile — auto-updated daily via Nexon Open API.",
+            "homepage": null,
+            "id": 1313507561,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-27T07:06:41Z",
+            "open_issues": 0,
+            "owner": "YunJuho0010",
+            "repo": "MapleStory-Pin-Box",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-16T06:51:55.034Z"
         },
         {
           "node_type": "item",
@@ -887,6 +950,52 @@
             ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nba-box",
+          "description": "Update a pinned gist to contain your favourite NBA team stats, record, and recent game results.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🏀 Update a pinned gist to contain your favourite NBA team stats",
+            "homepage": null,
+            "id": 1310551869,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-14T00:07:34Z",
+            "open_issues": 0,
+            "owner": "23seriy",
+            "repo": "nba-box",
+            "stars": 1,
+            "topics": [
+              "github-gist",
+              "nba",
+              "readme"
+            ]
+          },
+          "first_seen": "2026-11-16T06:51:55.034Z"
+        },
+        {
+          "node_type": "item",
+          "title": "steam-recent-games-box",
+          "description": "Update a pinned gist to contain your most recently played Steam game.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pins your most recently played Steam game to a GitHub Gist, auto-updated every 30 min via GitHub Actions. Show your latest Steam game on your GitHub profile — no server, just Actions + Gist.",
+            "homepage": null,
+            "id": 1311698451,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-07-27T07:45:38Z",
+            "open_issues": 0,
+            "owner": "YunJuho0010",
+            "repo": "Steam-Recent-Games-Box",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-11-16T06:51:55.034Z"
         },
         {
           "node_type": "group",
@@ -1305,7 +1414,7 @@
                 "id": 842152835,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-12T00:01:41Z",
+                "last_commit": "2026-11-15T18:22:12Z",
                 "open_issues": 4,
                 "owner": "liby",
                 "repo": "recent-languages-box",
@@ -1402,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T06:51:17.050Z",
+    "last_updated": "2026-11-16T06:51:55.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1410,8 +1519,8 @@
       "id": 176368100,
       "language": null,
       "license": null,
-      "last_commit": "2025-08-05T04:12:43Z",
-      "open_issues": 4,
+      "last_commit": "2026-11-16T04:13:51Z",
+      "open_issues": 0,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
       "stars": 2123,
@@ -1421,7 +1530,7 @@
         "pinned-gist"
       ]
     },
-    "original_repository_sha": "72c87017b9409dd0cd99253c4d6aae9680194a7e",
+    "original_repository_sha": "c2ce407747b7a22e09ad2516e439975e450be722",
     "enhanced_repository": "enhansome/enhansome-pinned-gists",
     "enhanced_repository_description": null,
     "title": "Awesome pinned gists with stars"
