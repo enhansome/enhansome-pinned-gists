@@ -122,7 +122,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2022-06-25T01:10:49Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "JohnPhamous",
             "repo": "strava-box",
             "stars": 55,
@@ -309,7 +309,7 @@
             "license": "ISC",
             "last_commit": "2026-11-14T17:45:40Z",
             "open_issues": 2,
-            "owner": "joshghent",
+            "owner": "piccolecose",
             "repo": "rescue-box",
             "stars": 23,
             "topics": [
@@ -679,7 +679,7 @@
             "license": "MIT",
             "last_commit": "2026-11-16T15:52:28Z",
             "open_issues": 2,
-            "owner": "joshghent",
+            "owner": "piccolecose",
             "repo": "todoist-box",
             "stars": 7,
             "topics": [
@@ -963,7 +963,7 @@
             "id": 1310551869,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T00:07:34Z",
+            "last_commit": "2026-11-18T04:32:12Z",
             "open_issues": 0,
             "owner": "23seriy",
             "repo": "nba-box",
@@ -1290,7 +1290,7 @@
             "open_issues": 4,
             "owner": "maxam2017",
             "repo": "productive-box",
-            "stars": 545,
+            "stars": 544,
             "topics": [
               "awesome-pinned-gists",
               "pinned-gist"
@@ -1511,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T08:10:28.028Z",
+    "last_updated": "2026-11-18T07:44:27.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1523,7 +1523,7 @@
       "open_issues": 0,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2123,
+      "stars": 2122,
       "topics": [
         "awesome",
         "awesome-list",
