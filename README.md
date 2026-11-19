@@ -49,13 +49,13 @@ Displaying data from external services in a pinned gist.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-03-03 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
+* [storygraph-box](https://github.com/chindris-mihai-alexandru/storygraph-box) ⭐ 3 | 🐛 6 | 🌐 Python | 📅 2026-11-13 - Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
 * [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-11-16 - Update a pinned gist with a daily trivia question from Open Trivia DB.
-* [storygraph-box](https://github.com/chindris-mihai-alexandru/storygraph-box) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2026-11-13 - Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [MapleStory-Pin-Box](https://github.com/YunJuho0010/MapleStory-Pin-Box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-27 - Update a pinned gist to show your MapleStory (KMS) character's level, job, combat power, and server.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [nba-box](https://github.com/23seriy/nba-box) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-18 - Update a pinned gist to contain your favourite NBA team stats, record, and recent game results.
+* [nba-box](https://github.com/23seriy/nba-box) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-19 - Update a pinned gist to contain your favourite NBA team stats, record, and recent game results.
 * [steam-recent-games-box](https://github.com/YunJuho0010/Steam-Recent-Games-Box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-27 - Update a pinned gist to contain your most recently played Steam game.
 * Code::Stats (<https://codestats.net/>)
   * [codestats-box-python](https://github.com/aksh1618/codestats-box-python) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2025-05-25 - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
@@ -76,7 +76,7 @@ Displaying data from external services in a pinned gist.
 
 Displaying more detailed GitHub user data in a pinned gist.
 
-* [productive-box](https://github.com/maxam2017/productive-box) ⭐ 544 | 🐛 4 | 🌐 TypeScript | 📅 2024-08-14 - Update a pinned gist to contain your most productive hours during the day.
+* [productive-box](https://github.com/maxam2017/productive-box) ⭐ 545 | 🐛 4 | 🌐 TypeScript | 📅 2024-08-14 - Update a pinned gist to contain your most productive hours during the day.
 * [activity-box](https://github.com/JasonEtco/activity-box) ⭐ 225 | 🐛 20 | 🌐 JavaScript | 📅 2023-12-21 - Update a pinned gist to contain the latest activity of a GitHub user.
   * [github-activity-box](https://github.com/maxchang3/github-activity-box) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-02 - A TypeScript rewrite of activity-box, published on npm for easy GitHub Actions integration, with improved type safety, customizability, and using the GraphQL API to retrieve issues and PRs authored by the specified user.
 * [github-stats-box](https://github.com/bokub/github-stats-box) ⭐ 159 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-18 - Update a pinned gist to contain your GitHub statistics.
@@ -111,4 +111,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
