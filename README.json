@@ -963,14 +963,20 @@
             "id": 1310551869,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T06:19:23Z",
+            "last_commit": "2026-11-21T04:07:16Z",
             "open_issues": 1,
             "owner": "23seriy",
             "repo": "nba-box",
             "stars": 1,
             "topics": [
+              "basketball",
+              "espn",
+              "github-action",
               "github-gist",
               "nba",
+              "nba-stats",
+              "pinned-gist",
+              "profile-readme",
               "readme"
             ]
           },
@@ -1511,7 +1517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:31:29.121Z",
+    "last_updated": "2026-11-21T07:27:07.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1520,7 +1526,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-11-16T04:13:51Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
       "stars": 2122,
