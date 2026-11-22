@@ -55,7 +55,7 @@ Displaying data from external services in a pinned gist.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [MapleStory-Pin-Box](https://github.com/YunJuho0010/MapleStory-Pin-Box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-27 - Update a pinned gist to show your MapleStory (KMS) character's level, job, combat power, and server.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
-* [nba-box](https://github.com/23seriy/nba-box) ⭐ 1 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-21 - Update a pinned gist to contain your favourite NBA team stats, record, and recent game results.
+* [nba-box](https://github.com/23seriy/nba-box) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-22 - Update a pinned gist to contain your favourite NBA team stats, record, and recent game results.
 * [steam-recent-games-box](https://github.com/YunJuho0010/Steam-Recent-Games-Box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-27 - Update a pinned gist to contain your most recently played Steam game.
 * Code::Stats (<https://codestats.net/>)
   * [codestats-box-python](https://github.com/aksh1618/codestats-box-python) ⭐ 11 | 🐛 5 | 🌐 Python | 📅 2025-05-25 - A Python implementation of codestats-box. Update a pinned gist to contain your Code::Stats stats.
@@ -111,4 +111,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
