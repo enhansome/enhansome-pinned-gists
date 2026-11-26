@@ -49,9 +49,9 @@ Displaying data from external services in a pinned gist.
 * [nintendo-switch-box](https://github.com/Swilder-M/nintendo-switch-box) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-07-24 - Update a pinned gist to contain your Nintendo Switch playtime leaderboard.
 * [bilibili-gist-py](https://github.com/luyanci/bilibili-gist-py) ⭐ 4 | 🐛 5 | 🌐 Python | 📅 2026-03-03 - Update a pinned gist to show your Bilibili stats and your latest videos.
 * [shodan-exposure-box](https://github.com/ChrisCarini/shodan-exposure-box) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-11-23 - Update a pinned gist containing the top used ports as observed by [Shodan](https://www.shodan.io/).
-* [storygraph-box](https://github.com/chindris-mihai-alexandru/storygraph-box) ⭐ 3 | 🐛 6 | 🌐 Python | 📅 2026-11-20 - Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.
 * [stackoverflow-stats-box](https://github.com/Pudding124/stackoverflow-stats-box) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-25 - Update a pinned gist to show stack overflow stats.
 * [trivia-box](https://github.com/ChrisCarini/trivia-box) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2026-11-23 - Update a pinned gist with a daily trivia question from Open Trivia DB.
+* [storygraph-box](https://github.com/chindris-mihai-alexandru/storygraph-box) ⭐ 2 | 🐛 6 | 🌐 Python | 📅 2026-11-20 - Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.
 * [hackmd-box](https://github.com/tsen159/hackmd-box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-08-02 - Update a pinned gist to show your latest HackMD notes.
 * [MapleStory-Pin-Box](https://github.com/YunJuho0010/MapleStory-Pin-Box) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-27 - Update a pinned gist to show your MapleStory (KMS) character's level, job, combat power, and server.
 * [monkeytype-box](https://github.com/artemnovichkov/monkeytype-box) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2025-12-20 - Update a pinned gist with [Monkeytype](https://monkeytype.com) Personal Bests
@@ -111,4 +111,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

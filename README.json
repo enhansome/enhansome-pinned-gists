@@ -795,48 +795,6 @@
         },
         {
           "node_type": "item",
-          "title": "storygraph-box",
-          "description": "Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Update a pinned gist with your latest StoryGraph reads, listens and Audible listening time",
-            "homepage": "https://gist.github.com/chindris-mihai-alexandru/ea859cb806be58d30b66c50441b3d7fb",
-            "id": 1430121447,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-20T02:45:16Z",
-            "open_issues": 6,
-            "owner": "chindris-mihai-alexandru",
-            "repo": "storygraph-box",
-            "stars": 3,
-            "topics": [
-              "audible",
-              "audiobooks",
-              "automation",
-              "book-tracker",
-              "books",
-              "csv",
-              "docker",
-              "gist",
-              "github-action",
-              "github-actions",
-              "github-profile",
-              "goodreads-alternative",
-              "pinned-gist",
-              "python",
-              "reading",
-              "reading-list",
-              "reading-stats",
-              "reading-tracker",
-              "self-hosted",
-              "storygraph"
-            ]
-          },
-          "first_seen": "2026-11-16T06:51:55.034Z"
-        },
-        {
-          "node_type": "item",
           "title": "stackoverflow-stats-box",
           "description": "Update a pinned gist to show stack overflow stats.",
           "children": [],
@@ -883,6 +841,48 @@
             ]
           },
           "first_seen": "2026-08-28T11:33:09.127Z"
+        },
+        {
+          "node_type": "item",
+          "title": "storygraph-box",
+          "description": "Update a pinned gist to contain your latest StoryGraph reads, listens and Audible listening time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Update a pinned gist with your latest StoryGraph reads, listens and Audible listening time",
+            "homepage": "https://gist.github.com/chindris-mihai-alexandru/ea859cb806be58d30b66c50441b3d7fb",
+            "id": 1430121447,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-20T02:45:16Z",
+            "open_issues": 6,
+            "owner": "chindris-mihai-alexandru",
+            "repo": "storygraph-box",
+            "stars": 2,
+            "topics": [
+              "audible",
+              "audiobooks",
+              "automation",
+              "book-tracker",
+              "books",
+              "csv",
+              "docker",
+              "gist",
+              "github-action",
+              "github-actions",
+              "github-profile",
+              "goodreads-alternative",
+              "pinned-gist",
+              "python",
+              "reading",
+              "reading-list",
+              "reading-stats",
+              "reading-tracker",
+              "self-hosted",
+              "storygraph"
+            ]
+          },
+          "first_seen": "2026-11-16T06:51:55.034Z"
         },
         {
           "node_type": "item",
@@ -1517,7 +1517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T08:53:42.508Z",
+    "last_updated": "2026-11-26T08:39:10.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
@@ -1529,7 +1529,7 @@
       "open_issues": 1,
       "owner": "matchai",
       "repo": "awesome-pinned-gists",
-      "stars": 2123,
+      "stars": 2124,
       "topics": [
         "awesome",
         "awesome-list",
