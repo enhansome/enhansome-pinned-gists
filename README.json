@@ -854,7 +854,7 @@
             "id": 1430121447,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-20T02:45:16Z",
+            "last_commit": "2026-11-27T02:45:08Z",
             "open_issues": 6,
             "owner": "chindris-mihai-alexandru",
             "repo": "storygraph-box",
@@ -1517,7 +1517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:39:10.858Z",
+    "last_updated": "2026-11-27T08:50:03.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "📌✨ A collection of awesome dynamic pinned gists for GitHub",
